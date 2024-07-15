@@ -1,0 +1,32 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:50%;
+}
+header{
+    background-color:rgba(32, 206, 119, 0.5);
+}
+nav{
+    background-color:rgba(1,1,0,0.2);
+    font-family:'Times New Roman', Times, serif;
+}
+main{
+    background-color:rgba(221, 20, 20, 0.445);
+    font-size:100%;
+}
+footer{
+    background-color:rgba(33, 242, 245, 0.316);
+    overflow:visible;
+}
+li{
+    display:inline-block;
+    width:20%;
+    font-size:200%;
+}
+h1{
+    text-align:justify;
+    font-family:'Times New Roman', Times, serif;
+    color:rgba(28, 240, 45, 0);
+}
+p{
+    line-height:100%;
+}
